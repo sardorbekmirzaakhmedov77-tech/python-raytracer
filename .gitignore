@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+/render.png
+/orbit.mp4
+/orbit.gif
